@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=cislo
+comment0.target=void\ setCislo(int)
+comment1.params=
+comment1.target=int\ getCislo()
+comment2.params=
+comment2.target=int\ getStatickeCislo()
+comment3.params=statickeCislo
+comment3.target=void\ setStatickeCislo(int)
+numComments=4

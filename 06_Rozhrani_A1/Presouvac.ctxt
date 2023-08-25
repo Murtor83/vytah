@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Presouvac()
+comment0.text=\r\n\ Vytvori\ presouvace,\ ktery\ bude\ presouvat\ objekty\ rychlosti\ 1.\r\n
+comment1.params=rychlost
+comment1.target=Presouvac(int)
+comment1.text=\r\n\ Vytvori\ presouvace,\ ktery\ bude\ presouvat\ objekty\ zadanou\ rychlosti.\r\n\r\n\ @param\ rychlost\ Rychlost,\ kterou\ bude\ presouvac\ pohybovat\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ se\ sverenymi\ objekty.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Metoda\ prevadi\ instanci\ na\ retezec\ -\r\n\ pouziva\ se\ vetsinou\ pro\ ucely\ ladeni.\r\n\ Mela\ by\ ji\ definovat\ kazda\ trida\ a\ uvest\ v\ ni\r\n\ vsechny\ potrebne\ informace\ o\ vnitrnim\ stavu\ instance.\r\n\r\n\ @return\ \ \ \ \ Retezec\ informujici\ o\ vnitrnim\ stavu\ instance\r\n
+comment3.params=objekt\ doprava\ dolu
+comment3.target=void\ presunO(IPosuvny,\ int,\ int)
+comment3.text=\r\n\ Presune\ zadany\ objekt\ o\ pozadovany\ pocet\ bodu.\r\n\r\n\ @param\ objekt\ \ Presouvany\ objekt\r\n\ @param\ doprava\ Pocet\ bodu,\ o\ nez\ se\ objekt\ presune\ doprava\r\n\ @param\ dolu\ \ \ \ Pocet\ bodu,\ o\ nez\ se\ objekt\ presune\ dolu\r\n
+comment4.params=objekt\ x\ y
+comment4.target=void\ presunNa(IPosuvny,\ int,\ int)
+comment4.text=\r\n\ Presune\ zadany\ objekt\ do\ pozadovane\ pozice.\r\n\r\n\ @param\ objekt\ \ Presouvany\ objekt\r\n\ @param\ x\ \ \ \ \ \ \ x-ova\ souradnice\ pozadovane\ cilove\ pozice\r\n\ @param\ y\ \ \ \ \ \ \ y-ova\ souradnice\ pozadovane\ cilove\ pozice\r\n
+comment5.params=objekt\ pozice
+comment5.target=void\ presunNa(IPosuvny,\ Pozice)
+comment5.text=\r\n\ Presune\ zadany\ objekt\ do\ pozadovane\ pozice.\r\n\r\n\ @param\ objekt\ \ Presouvany\ objekt\r\n\ @param\ pozice\ \ Pozadovane\ cilove\ pozice.\r\n
+numComments=6

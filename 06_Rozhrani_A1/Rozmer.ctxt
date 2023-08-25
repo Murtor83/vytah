@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rozmer()
+comment0.text=\r\n\ Bezparametricky\ konstruktor\ vytvori\ instanci\ s\ nulovymi\ rozmery.\r\n
+comment1.params=sirka\ vyska
+comment1.target=Rozmer(int,\ int)
+comment1.text=\r\n\ Vytvori\ instanci\ se\ zadanymi\ rozmery.\r\n\r\n\ @param\ sirka\ \ Sirka\ objektu.\r\n\ @param\ vyska\ \ Vyska\ objektu.\r\n
+comment2.params=rozmer
+comment2.target=Rozmer(Rozmer)
+comment2.text=\r\n\ Vytvori\ instanci,\ ktera\ je\ kopii\ zadane\ instance.\r\n\r\n\ @param\ rozmer\ \ Referencni\ rozmer.\r\n
+comment3.params=
+comment3.target=int\ getSirka()
+comment3.text=\r\n\ Vrati\ velikost\ sirky\ objektu.\r\n\r\n\ @return\ \ Sirka\ objektu.\r\n
+comment4.params=
+comment4.target=int\ getVyska()
+comment4.text=\r\n\ Vrati\ velikost\ vysky\ objektu.\r\n\r\n\ @return\ \ Vyska\ objektu.\r\n
+comment5.params=x\ y
+comment5.target=void\ setRozmer(int,\ int)
+comment5.text=\r\n\ Nastavi\ sirku\ a\ vysku\ objektu.\r\n\r\n\ @param\ sirka\ Nastavovana\ sirka.\r\n\ @param\ vyska\ Nastavovana\ vyska.\r\n
+comment6.params=rozmer
+comment6.target=void\ setRozmer(Rozmer)
+comment6.text=\r\n\ Nastavi\ sirku\ a\ vysku\ objektu\ podle\ parametru.\r\n\r\n\ @param\ rozmer\ Rozmer,\ jehoz\ parametry\ prevezmeme.\r\n
+comment7.params=sirka\ vyska
+comment7.target=void\ nastav(int,\ int)
+comment7.text=\r\n\ Nastavi\ rozmery\ na\ zadane\ hodnoty.\r\n\r\n\ @param\ \ sirka\ \ \ Nastavovana\ sirka.\r\n\ @param\ \ vyska\ \ \ Nastavovana\ vyska.\r\n
+comment8.params=rozmer
+comment8.target=void\ nastav(Rozmer)
+comment8.text=\r\n\ Nastavi\ rozmer\ podle\ parametru.\r\n\r\n\ @param\ \ rozmer\ \ \ Rozmer,\ jehoz\ nastaveni\ se\ kopiruje.\r\n
+comment9.params=dsirka\ dvyska
+comment9.target=void\ zmenO(int,\ int)
+comment9.text=\r\n\ Presun\ souradnic\ dane\ pozice\ o\ zadany\ pocet\ bodu\ v\ obou\ smerech.\r\n\r\n\ @param\ \ dsirka\ \ \ Zmena\ sirky\ (>0\=zvetsit,\ <0\=zmensit).\r\n\ @param\ \ dvyska\ \ \ Zmena\ vysky\ (>0\=zvetsit,\ <0\=zmensit).\r\n
+numComments=10

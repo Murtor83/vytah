@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Cviceni(int)
+comment1.params=
+comment1.target=Cviceni()
+comment2.params=obdelnik
+comment2.target=void\ toMihoVyndej(IKresleny)
+comment3.params=
+comment3.target=void\ vypis()
+comment4.params=kresleni
+comment4.target=void\ nadavej(java.lang.String)
+comment5.params=
+comment5.target=void\ nakresli()
+comment6.params=kreslitko
+comment6.target=void\ nakresli(Kreslitko)
+numComments=7
